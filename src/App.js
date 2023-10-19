@@ -25,8 +25,9 @@ function handleChange(Event)
         <br></br>
         {text}
         <br></br>
-        <h3>Words:{count.word}
-        <br></br>Characters:{count.character}</h3>
+        <h3 class="result">Words: {count.word}
+        <br></br>Characters: {count.character}
+        </h3>
       </form>
     </div>
 
